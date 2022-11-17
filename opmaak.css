@@ -1,0 +1,191 @@
+
+.body2 {
+  font-family: "monaco", monospace;
+  color: white;
+}
+
+#body1 {
+  font-family: "monaco", monospace;
+  color: white;
+}
+
+/* zorgt ervoor dat alle tekst hetzelfde is */
+
+footer {
+  background-color: #8bcde3;
+  padding: 10px;
+  float: left;
+  width: 100%;
+  text-align: center;
+}
+/* opmaak van de footer */
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #0086b3;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #8bcde3;
+  }
+  /*zorgt voor het menu boven aan */
+
+
+/** Home pagina **/
+
+ #column1 {
+  display: flex;
+  background-color: #8bcde3;
+ }
+
+ #column1 div {
+     align-items: center;
+     margin: 20px;
+     width: 100%;
+ }
+
+ .col { 
+  font-family: "monaco", monospace;
+  color: white;
+  border-style: solid;
+  border-width: 2px;
+  padding: 20px;
+  }
+  /* zorgt voor de 2 vlakken naast elkaar */
+
+
+/** binair stelsel pagina **/
+
+  #body1 {
+    background-image: url("Binairachtergrond2.jpg");
+}
+ /* dit is de achtergrond van binairstelsel */
+
+#titelkopje1 {
+    color: white;
+    border-color: #8bcde3;
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 6px;
+    padding: 40px;
+    background-color: #8bcde3;
+}
+/** dit zorgt voor het blauwevlak en de titel van het binairstelsel **/
+
+  #p3 {
+  background-color: #8bcde3;
+   padding: 50px;
+   margin: 20px;
+ }
+ /* dit zorgt voor het blauwe vlak en de inleiding van het binairstelsel*/
+
+ #div1 {
+  background-color: #8bcde3;
+   padding: 50px;
+   margin: 20px;
+   height: auto;
+   width: 25%;
+   float: left;
+ }
+/* dit zorgt voor het blauwe vlak met de tekst erin*/
+
+ #p6 {
+  float: right;
+  overflow: auto;
+  width: 60%;
+ }
+/* dit zorgt ervoor dat het filmpje rechts is in de binairstelsel */
+ 
+
+/** Bitmap en vector pagina **/
+
+#column2 {
+  display: flex;
+  background-color: #8bcde3;
+ }
+
+ #column2 div {
+  align-items: center;
+  margin: 20px;
+  width: 100%;
+ }
+
+ .col2 { 
+  border-style: solid;
+  border-width: 2px;
+  padding: 20px;
+  }
+/* zorgt voor de 2 vlakken naast elkaar */
+  
+#column3a {
+  border-style: solid;
+  padding: 20px;
+  background-color: #8bcde3;
+  float: left;
+}
+/* dit is voor het kopje opslag geluid */
+
+/** de kleurmodelen pagina **/
+
+#column4 {
+  display: flex;
+  background-color: #8bcde3;
+ }
+
+ #column4 div {
+  align-items: center;
+  margin: 20px;
+  width: 100%;
+ }
+
+ .col4 { 
+  font-family: "monaco", monospace;
+  color: white;
+  border-style: solid;
+  border-width: 2px;
+  padding: 20px;
+  }
+
+/* zorgt voor de 2 kolommen naast elkaar */
+
+  .links {
+  float: left;
+  } 
+    
+  .rechts {
+  float: right; 
+  }
+  /* dit zorgt voor de 2 plaatjes naast elkaar */
+
+ #div5 {
+  border-style: solid;
+  padding: 20px;
+  background-color: #8bcde3;
+ }
+ /* zorgt voor het kopje pixels */
+
+ a:link, a:visited {
+  background-color: #0086b3;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+/* opmaak van de button */
