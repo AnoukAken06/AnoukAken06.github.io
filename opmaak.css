@@ -12,7 +12,7 @@
 /* zorgt ervoor dat alle tekst hetzelfde is */
 
 footer {
-  background-color: #8bcde3;
+  background-color: #4C8151;
   padding: 10px;
   float: left;
   width: 100%;
@@ -41,7 +41,7 @@ ul {
   }
   
   li a:hover {
-    background-color: #8bcde3;
+    background-color: #4C8151;
   }
   /*zorgt voor het menu boven aan */
 
@@ -50,7 +50,7 @@ ul {
 
  #column1 {
   display: flex;
-  background-color: #8bcde3;
+  background-color: #4C8151;
  }
 
  #column1 div {
@@ -78,25 +78,25 @@ ul {
 
 #titelkopje1 {
     color: white;
-    border-color: #8bcde3;
+    border-color: #4C8151;
     text-align: center;
     border-style: solid;
     border-width: 2px;
     border-radius: 6px;
     padding: 40px;
-    background-color: #8bcde3;
+    background-color: #4C8151;
 }
 /** dit zorgt voor het blauwevlak en de titel van het binairstelsel **/
 
   #p3 {
-  background-color: #8bcde3;
+  background-color: #4C8151;
    padding: 50px;
    margin: 20px;
  }
  /* dit zorgt voor het blauwe vlak en de inleiding van het binairstelsel*/
 
  #div1 {
-  background-color: #8bcde3;
+  background-color: #4C8151;
    padding: 50px;
    margin: 20px;
    height: auto;
@@ -117,7 +117,7 @@ ul {
 
 #column2 {
   display: flex;
-  background-color: #8bcde3;
+  background-color: #4C8151;
  }
 
  #column2 div {
@@ -136,7 +136,7 @@ ul {
 #column3a {
   border-style: solid;
   padding: 20px;
-  background-color: #8bcde3;
+  background-color: #4C8151;
   float: left;
 }
 /* dit is voor het kopje opslag geluid */
@@ -145,7 +145,7 @@ ul {
 
 #column4 {
   display: flex;
-  background-color: #8bcde3;
+  background-color: #4C8151;
  }
 
  #column4 div {
@@ -176,12 +176,12 @@ ul {
  #div5 {
   border-style: solid;
   padding: 20px;
-  background-color: #8bcde3;
+  background-color: #4C8151;
  }
  /* zorgt voor het kopje pixels */
 
  a:link, a:visited {
-  background-color: #0086b3;
+  background-color: #4C8151;
   color: white;
   padding: 14px 25px;
   text-align: center;
