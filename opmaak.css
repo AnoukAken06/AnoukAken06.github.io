@@ -1,15 +1,13 @@
 
 .body2 {
-  font-family: "monaco", monospace;
+  font-family: "eras", monospace;
   color: white;
 }
 
 #body1 {
-  font-family: "monaco", monospace;
+  font-family: "eras", monospace;
   color: white;
 }
-
-/* zorgt ervoor dat alle tekst hetzelfde is */
 
 footer {
   background-color: #4C8151;
@@ -43,10 +41,6 @@ ul {
   li a:hover {
     background-color: #4C8151;
   }
-  /*zorgt voor het menu boven aan */
-
-
-/** Home pagina **/
 
  #column1 {
   display: flex;
@@ -60,16 +54,12 @@ ul {
  }
 
  .col { 
-  font-family: "monaco", monospace;
+  font-family: "eras", monospace;
   color: white;
   border-style: solid;
   border-width: 2px;
   padding: 20px;
   }
-  /* zorgt voor de 2 vlakken naast elkaar */
-
-
-/** binair stelsel pagina **/
 
   #body1 {
     background-image: url("Binairachtergrond2.jpg");
@@ -155,7 +145,7 @@ ul {
  }
 
  .col4 { 
-  font-family: "monaco", monospace;
+  font-family: "eras", monospace;
   color: white;
   border-style: solid;
   border-width: 2px;
