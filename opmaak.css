@@ -32,7 +32,7 @@ ul {
   
   li a {
     display: block;
-    color: white;
+    color: #4C8151;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -55,7 +55,7 @@ ul {
 
  .col { 
   font-family: "Brush Script MT", cursive;
-  color: white;
+  color: #4C8151;
   border-style: solid;
   border-width: 2px;
   padding: 20px;
