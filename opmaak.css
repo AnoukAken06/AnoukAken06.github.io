@@ -16,7 +16,6 @@ footer {
   width: 100%;
   text-align: center;
 }
-/* opmaak van de footer */
 
 ul {
     list-style-type: none;
@@ -66,7 +65,7 @@ ul {
 }
 
 #titelkopje1 {
-    color: #4C8151;
+    color: white;
     border-color: #4C8151;
     text-align: center;
     border-style: solid;
